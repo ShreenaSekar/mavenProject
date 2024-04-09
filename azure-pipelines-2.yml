@@ -1,0 +1,11 @@
+
+
+
+pool: Local
+
+
+steps:
+- script: hostname
+  
+
+
